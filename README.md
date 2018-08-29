@@ -40,9 +40,9 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ----------
 
 
-## 用到的相关插件，`CSS`使用`stylus`编写， `axios`做数据交互，`vue-router`做路由切换 `better-scroll`页面滚动
+> 用到的相关插件，`CSS`使用`stylus`编写， `axios`做数据交互，`vue-router`做路由切换 `better-scroll`页面滚动
 
-## 相关接口数据使用`express`提供接口,使用时需要在项目目录的`config/index.js`中配置相关的代理
+> 相关接口数据使用`express`提供接口,使用时需要在项目目录的`config/index.js`中配置相关的代理
 ```
 proxyTable: {
     '/api':{
