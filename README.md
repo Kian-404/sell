@@ -18,7 +18,6 @@ node bin/www
 
 > sell app
 
-## Build Setup
 
 ``` bash
 # install dependencies
