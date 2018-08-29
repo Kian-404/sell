@@ -1,8 +1,10 @@
 # sell
 
->sell server
 
 ## Build Setup
+
+>sell server
+
 
 ``` bash
 #first into server list
