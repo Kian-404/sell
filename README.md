@@ -62,6 +62,7 @@ proxyTable: {
 
 > 文件目录
 
+```
 .
 ├── README.md
 ├── build
@@ -100,7 +101,7 @@ proxyTable: {
 │   └── router
 └── static
       └── css
-
+```
 > 由于上传到github上之后再clone下来无法运行，`npm run dev`显示 `No PostCSS Config found`,通过搜索在根目录添加了一个`postcss.config.js`文件内容为
 ```
 module.exports = {  
